@@ -1,3 +1,0 @@
-atkartojau savo darbą iš doridarbai.lt Bootstrap 5, css,html. 4.5val. Neredaguotas bootstrap.
-
-kodėl plačiau ir kontaktai taip keistai gaunasi su float:right/left;? logo ir details tas pats. norint kad kairysis būtų iš kairės ir float right reikia daryti atvirksčiai, t.y. kairįjį elementą nukelti į dešinę.
